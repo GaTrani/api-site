@@ -32,3 +32,6 @@ build/
 ### VS Code ###
 .vscode/
 .env
+
+### My Folders ###
+/src/main/resources/META-INF/
